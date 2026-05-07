@@ -1,5 +1,5 @@
 # LeetCode SQL-50 Solutions
 
-Using PostgreSQL/MySQL.
+Using PostgreSQL
 
 
